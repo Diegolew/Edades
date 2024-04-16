@@ -1,0 +1,38 @@
+
+Historia de Usuario:
+
+Como usuario, deseo utilizar una aplicación para determinar mi grupo de edad ingresando mi fecha de nacimiento, para comprender mejor mi etapa de vida y conectarme con personas de edades similares.
+
+Criterios de Aceptación:
+
+La aplicación debe tener una interfaz clara que permita al usuario ingresar su fecha de nacimiento.
+El usuario debe poder ingresar su fecha de nacimiento en formato día/mes/año.
+El programa debe validar la entrada del usuario, asegurándose de que la fecha ingresada sea válida y esté dentro del rango esperado.
+En función de la fecha de nacimiento ingresada, el programa debe determinar con precisión la categoría de grupo de edad correspondiente:
+Recién Nacido: 0 a 2 años
+Infante: 3 a 9 años
+Púber: 10 a 12 años
+Adolescente: 13 a 19 años
+Joven: 20 a 29 años
+Adulto: 30 a 39 años
+Adulto Mayor: 50 a 59 años
+Edad Madura: 60 a 100 años
+Si el usuario ingresa una fecha de nacimiento no válida (por ejemplo, una fecha en el futuro o una fecha inválida como el 31 de febrero), el programa debe mostrar un mensaje de error apropiado.
+El programa debe mostrar la categoría de grupo de edad determinada claramente para que el usuario la comprenda.
+Notas Adicionales:
+
+La aplicación puede diseñarse como una aplicación web o móvil para una experiencia de usuario conveniente.
+Se pueden agregar funciones adicionales, como proporcionar información sobre las características y experiencias de cada grupo de edad, o permitir a los usuarios conectarse con otros de su misma edad.
+La categorización de grupos de edad se basa en rangos ampliamente aceptados, pero puede personalizarse para adaptarse a contextos culturales específicos.
+Ejemplo de Uso:
+
+El usuario abre la aplicación de determinación de grupo de edad en su dispositivo móvil.
+La aplicación solicita al usuario que ingrese su fecha de nacimiento en formato día/mes/año.
+El usuario ingresa su fecha de nacimiento (por ejemplo, 15/07/1995).
+El programa procesa la entrada y determina que el usuario pertenece al grupo de edad "Joven".
+La aplicación muestra la categoría de grupo de edad determinada al usuario: "Usted es Joven".
+Beneficios:
+
+Esta aplicación proporciona a los usuarios una forma sencilla de identificar su grupo de edad y obtener un sentido de pertenencia a una etapa particular de la vida.
+Facilita la reflexión personal, las interacciones sociales y la comprensión de la demografía basada en la edad.
+Puede adaptarse para educar a los usuarios sobre los diferentes grupos de edad y sus características distintivas.
